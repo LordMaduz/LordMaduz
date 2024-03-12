@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am a Playstation Gamer ❤️**
 
-### 📚Blogs posts
+### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Are you applying sequence naming strategies correctly in Hibernate 6?](https://levelup.gitconnected.com/are-you-applying-sequence-naming-strategies-correctly-in-hibernate-6-708551d7172e?source=rss-44d824aafb43------2)
 - [Making the best memories at Universal Studios Singapore: Episode-01](https://medium.com/long-sweet-valuable/making-the-best-memories-at-universal-studios-singapore-episode-01-d50d10a1fac1?source=rss-44d824aafb43------2)

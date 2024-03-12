@@ -25,6 +25,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you applying sequence naming strategies correctly in Hibernate 6?](https://levelup.gitconnected.com/are-you-applying-sequence-naming-strategies-correctly-in-hibernate-6-708551d7172e?source=rss-44d824aafb43------2)
+- [Making the best memories at Universal Studios Singapore: Episode-01](https://medium.com/long-sweet-valuable/making-the-best-memories-at-universal-studios-singapore-episode-01-d50d10a1fac1?source=rss-44d824aafb43------2)
+- [Here is why you should migrate from Lombok to Java Records](https://levelup.gitconnected.com/here-is-why-you-should-migrate-from-lombok-to-java-records-ec99fef052b1?source=rss-44d824aafb43------2)
+- [Migrating to Hibernate 6: What’s new and what got changed?](https://levelup.gitconnected.com/migrating-to-hibernate-6-whats-new-and-what-got-changed-a72c6eaef72c?source=rss-44d824aafb43------2)
+- [How to verify Apache Camel Routes with Spring using JUnit-5?](https://medium.com/javarevisited/testing-apache-camel-with-spring-using-junit-5-c1b33cf72336?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

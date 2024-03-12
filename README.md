@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchira Madhushan Rajapaksha</h1>
-<h3 align="center">I am a software engineer who loves to engage in digital transformation and innovation initiatives. In my free time, I would like to write about Software Architecture & System Design. I am a cloud-native enthusiast fascinated with Reactive architecture.</h3>
+<h3 align="center">I am a software engineer who loves to engage in digital transformation and innovation initiatives. In my free time, I would like to write about software architecture & system design. I am a cloud-native enthusiast fascinated with reactive architecture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordmaduz&label=Profile%20views&color=0e75b6&style=flat" alt="lordmaduz" /> </p>
 

@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am a Playstation Gamer ❤️**
 
-### 📚 Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

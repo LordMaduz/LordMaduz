@@ -25,11 +25,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Dynamic Queries with Spring Data JPA Criteria API](https://levelup.gitconnected.com/generate-dynamic-queries-with-spring-data-jpa-criteria-api-c0efe20ac191?source=rss-44d824aafb43------2)
+- [Do we understand the core of Java’s copy concepts?](https://levelup.gitconnected.com/do-we-understand-the-core-of-javas-copy-concepts-c2ed32fd83b2?source=rss-44d824aafb43------2)
 - [Intercepting requests using Spring WebClient Filters](https://medium.com/javarevisited/intercepting-requests-using-spring-webclient-filters-2bf8a8ef0300?source=rss-44d824aafb43------2)
 - [Intercepting requests and responses with Spring WebFlux Filters](https://levelup.gitconnected.com/intercepting-requests-and-responses-with-spring-webflux-filters-f770212b48d6?source=rss-44d824aafb43------2)
 - [Evolution of Hibernate’s Naming Strategies with Spring Boot](https://levelup.gitconnected.com/evolution-of-hibernates-naming-strategies-with-spring-boot-0ff6765aeb8d?source=rss-44d824aafb43------2)
-- [Are you applying Hibernate’s naming strategies in the right way?](https://levelup.gitconnected.com/are-you-applying-hibernates-naming-strategies-in-the-right-way-0458601a9101?source=rss-44d824aafb43------2)
-- [Are you applying sequence naming strategies correctly in Hibernate 6?](https://levelup.gitconnected.com/are-you-applying-sequence-naming-strategies-correctly-in-hibernate-6-708551d7172e?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

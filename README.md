@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maduz_ruchira" target="blank"><img src="https://img.shields.io/twitter/follow/maduz_ruchira?logo=twitter&style=for-the-badge" alt="maduz_ruchira" /></a> </p>
 
-- 🔭 I’m currently working in [DBS Bank](https://www.dbs.com)
+- 🔭 I’m currently working in [OCBC Bank](https://www.ocbc.com/group/gateway)
 
 - 🌱 I’m currently learning **cloud-native architecture and reactive way of design**
 

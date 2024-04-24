@@ -25,11 +25,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deciphering JPA’s &amp; Hibernate’s Limitations: The Reasoning Behind Java Records Not Being Supported…](https://medium.com/javarevisited/deciphering-jpas-hibernate-s-limitations-the-reasoning-behind-java-records-not-being-supported-56a57d3ff9ca?source=rss-44d824aafb43------2)
 - [Has the Metamodel Generator in Hibernate 6 reached its full potential?](https://levelup.gitconnected.com/has-the-metamodel-generator-in-hibernate-6-reached-its-full-potential-0efc949a01a7?source=rss-44d824aafb43------2)
 - [Dynamic Queries with Spring Data JPA Specification and Criteria API](https://levelup.gitconnected.com/dynamic-queries-with-spring-data-jpa-specification-and-criteria-api-2e98564a8da4?source=rss-44d824aafb43------2)
 - [Generate Dynamic Queries with Spring Data JPA Criteria API](https://levelup.gitconnected.com/generate-dynamic-queries-with-spring-data-jpa-criteria-api-c0efe20ac191?source=rss-44d824aafb43------2)
 - [Do we understand the core of Java’s copy concepts?](https://levelup.gitconnected.com/do-we-understand-the-core-of-javas-copy-concepts-c2ed32fd83b2?source=rss-44d824aafb43------2)
-- [Intercepting requests using Spring WebClient Filters](https://medium.com/javarevisited/intercepting-requests-using-spring-webclient-filters-2bf8a8ef0300?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

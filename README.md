@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in [OCBC Bank](https://www.ocbc.com/group/gateway)
 
-- 🌱 I’m currently learning **cloud-native architecture and reactive way of design**
+- 🌱 I’m constantly exploring on **cloud-native architecture and reactive way of design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LordMaduz](https://github.com/LordMaduz)
 

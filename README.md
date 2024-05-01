@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Software architecture and System design, Cloud native architecture, and Reactive architecture**
 
-- 📫 How to reach me **https://bento.me/ruchirarajapaksha**
+- 📫 How to reach me [My Profile](https://bento.me/ruchirarajapaksha)
 
-- 📄 Know about my experiences [https://read.cv/ruchirarajapaksha](https://read.cv/ruchirarajapaksha)
+- 📄 Know about my experiences [My Resume](https://read.cv/ruchirarajapaksha)
 
 - ⚡ Fun fact **I am a Playstation Gamer ❤️**
 

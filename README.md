@@ -11,9 +11,9 @@
 
 - 🌱 I’m constantly exploring on **cloud-native architecture and reactive way of design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LordMaduz](https://github.com/LordMaduz)
+- 👨‍💻 All of my projects are available at [GithHb](https://github.com/LordMaduz)
 
-- 📝 I regularly write articles on [https://medium.com/@maduz.ruchira](https://medium.com/@maduz.ruchira)
+- 📝 I regularly write articles on [Medium](https://medium.com/@maduz.ruchira)
 
 - 📚 I always try to share my knowledge on [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
 

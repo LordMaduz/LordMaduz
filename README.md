@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchira Madhushan Rajapaksha</h1>
 <h3 align="center">I am a software engineer who loves to engage in digital transformation and innovation initiatives. In my free time, I would like to write about software architecture & system design. I am a cloud-native enthusiast fascinated with reactive architecture.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordmaduz&label=Profile%20views&color=0e75b6&style=flat" alt="lordmaduz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordmaduz" alt="lordmaduz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/maduz_ruchira" target="blank"><img src="https://img.shields.io/twitter/follow/maduz_ruchira?logo=twitter&style=for-the-badge" alt="maduz_ruchira" /></a> </p>
-
 - 🔭 I’m currently working in [OCBC Bank](https://www.ocbc.com/group/gateway)
 
 - 🌱 I’m constantly exploring on **cloud-native architecture and reactive way of design**
@@ -48,9 +42,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruchirarajapaksha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchirarajapaksha" /></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordmaduz&show_icons=true&locale=en&layout=compact" alt="lordmaduz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordmaduz&show_icons=true&locale=en" alt="lordmaduz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordmaduz&" alt="lordmaduz" /></p>

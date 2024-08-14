@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruchira Madhushan Rajapaksha</h1>
 <h3 align="center">I am a software engineer who loves to engage in digital transformation and innovation initiatives. In my free time, I would like to write about software architecture & system design. I am a cloud-native enthusiast fascinated with reactive architecture.</h3>
 
-- 🔭 I worked in [DBS Bank](https://www.dbs.com)
+- 🔭 I work in [DBS Bank](https://www.dbs.com)
 
 - 🌱 I’m constantly exploring on **cloud-native architecture and reactive way of design**
 

@@ -21,7 +21,7 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Documenting WebFlux Functional API Endpoints using OpenAPI 3 and Swagger UI](https://levelup.gitconnected.com/documenting-webflux-functional-api-endpoints-using-openapi-3-and-swagger-ui-f8c82bd434f7?source=rss-44d824aafb43------2)
+- [Simplify API Documentation for WebFlux Functional Endpoints using OpenAPI 3 and Swagger UI](https://levelup.gitconnected.com/documenting-webflux-functional-api-endpoints-using-openapi-3-and-swagger-ui-f8c82bd434f7?source=rss-44d824aafb43------2)
 - [Simplify API documentation with OpenAPI 3 and Swagger UI in Spring Boot 3](https://levelup.gitconnected.com/simplify-api-documentation-with-openapi-3-and-swagger-ui-in-spring-boot-3-53e0ce247a1a?source=rss-44d824aafb43------2)
 - [Mapstruct and Inheritance. Can Mapstruct support Inheritance for Smarter Mappings?](https://levelup.gitconnected.com/mapstruct-and-inheritance-can-mapstruct-support-inheritance-for-smarter-mappings-22e59e5307f5?source=rss-44d824aafb43------2)
 - [Java Records Unleashed: Exploring Java Records as Embeddables with Hibernate 6](https://levelup.gitconnected.com/java-records-unleashed-exploring-java-records-as-embeddables-with-hibernate-6-9961cb339a9c?source=rss-44d824aafb43------2)

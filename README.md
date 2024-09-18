@@ -21,11 +21,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Took Charge of My Life and Made It Extraordinary](https://long.sweet.pub/how-i-took-charge-of-my-life-and-made-it-extraordinary-420843191c26?source=rss-44d824aafb43------2)
 - [Why EventLoop is the Unsung Hero of Asynchronous Programming](https://levelup.gitconnected.com/why-eventloop-is-the-unsung-hero-of-asynchronous-programming-34a896b5dacf?source=rss-44d824aafb43------2)
 - [Is Erlang the Smartest Career Move You’ve Never Considered?](https://levelup.gitconnected.com/is-erlang-the-smartest-career-move-youve-never-considered-6eb02f6a8bed?source=rss-44d824aafb43------2)
 - [Is Today’s OOP Aligned with Alan Kay’s Original Concept?](https://levelup.gitconnected.com/is-todays-oop-aligned-with-alan-kay-s-original-concept-163aa20309f3?source=rss-44d824aafb43------2)
 - [Simplify Audit Trails with Change Data Capture: MongoDB Change Streams in Spring Boot](https://levelup.gitconnected.com/simplify-audit-trails-with-change-data-capture-mongodb-change-streams-in-spring-boot-b16ee0146382?source=rss-44d824aafb43------2)
-- [Uncover the Mystery: What Makes Hibernate 6 Truly Magical](https://levelup.gitconnected.com/uncover-the-mystery-what-makes-hibernate-6-truly-magical-b212495d2ba4?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

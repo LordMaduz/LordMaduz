@@ -21,11 +21,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Moment I Realized Being Just a Techie Wouldn’t Take Me Forward](https://levelup.gitconnected.com/the-moment-i-realized-being-just-a-techie-wouldnt-take-me-forward-67c4ed96432a?source=rss-44d824aafb43------2)
 - [How I Took Charge of My Life and Made It Extraordinary](https://long.sweet.pub/how-i-took-charge-of-my-life-and-made-it-extraordinary-420843191c26?source=rss-44d824aafb43------2)
 - [Why EventLoop is the Unsung Hero of Asynchronous Programming](https://levelup.gitconnected.com/why-eventloop-is-the-unsung-hero-of-asynchronous-programming-34a896b5dacf?source=rss-44d824aafb43------2)
 - [Is Erlang the Smartest Career Move You’ve Never Considered?](https://levelup.gitconnected.com/is-erlang-the-smartest-career-move-youve-never-considered-6eb02f6a8bed?source=rss-44d824aafb43------2)
 - [Is Today’s OOP Aligned with Alan Kay’s Original Concept?](https://levelup.gitconnected.com/is-todays-oop-aligned-with-alan-kay-s-original-concept-163aa20309f3?source=rss-44d824aafb43------2)
-- [Simplify Audit Trails with Change Data Capture: MongoDB Change Streams in Spring Boot](https://levelup.gitconnected.com/simplify-audit-trails-with-change-data-capture-mongodb-change-streams-in-spring-boot-b16ee0146382?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

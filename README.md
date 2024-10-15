@@ -21,11 +21,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How MVEL Changed the Way I Think About Coding](https://levelup.gitconnected.com/how-mvel-changed-the-way-i-think-about-coding-5b0679a60a0b?source=rss-44d824aafb43------2)
 - [Is Amdahl’s Law Still Relevant Today?](https://levelup.gitconnected.com/is-amdahls-law-still-relevant-today-cb1f3a643b03?source=rss-44d824aafb43------2)
 - [What Conway’s Law Can Teach Us About Building Smarter, Scalable Architectures](https://levelup.gitconnected.com/what-conways-law-can-teach-us-about-building-smarter-scalable-architectures-434da5e8a946?source=rss-44d824aafb43------2)
 - [The Moment I Realized Being Just a Techie Wouldn’t Take Me Forward](https://levelup.gitconnected.com/the-moment-i-realized-being-just-a-techie-wouldnt-take-me-forward-67c4ed96432a?source=rss-44d824aafb43------2)
 - [How I Took Charge of My Life and Made It Extraordinary](https://long.sweet.pub/how-i-took-charge-of-my-life-and-made-it-extraordinary-420843191c26?source=rss-44d824aafb43------2)
-- [Why EventLoop is the Unsung Hero of Asynchronous Programming](https://levelup.gitconnected.com/why-eventloop-is-the-unsung-hero-of-asynchronous-programming-34a896b5dacf?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

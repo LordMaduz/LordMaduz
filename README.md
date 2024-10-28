@@ -21,11 +21,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Schema Registry? And Why Does Your Data Need It? : &lpar;Part-1&rpar;](https://levelup.gitconnected.com/what-is-schema-registry-and-why-does-your-data-need-it-part-1-acd8f9e0303f?source=rss-44d824aafb43------2)
 - [Stop Saying ‘Yes’ to Everything](https://levelup.gitconnected.com/stop-saying-yes-to-everything-cecb34b5469b?source=rss-44d824aafb43------2)
 - [How MVEL Changed the Way I Think About Coding](https://levelup.gitconnected.com/how-mvel-changed-the-way-i-think-about-coding-5b0679a60a0b?source=rss-44d824aafb43------2)
 - [Is Amdahl’s Law Still Relevant Today?](https://levelup.gitconnected.com/is-amdahls-law-still-relevant-today-cb1f3a643b03?source=rss-44d824aafb43------2)
 - [What Conway’s Law Can Teach Us About Building Smarter, Scalable Architectures](https://levelup.gitconnected.com/what-conways-law-can-teach-us-about-building-smarter-scalable-architectures-434da5e8a946?source=rss-44d824aafb43------2)
-- [The Moment I Realized Being Just a Techie Wouldn’t Take Me Forward](https://levelup.gitconnected.com/the-moment-i-realized-being-just-a-techie-wouldnt-take-me-forward-67c4ed96432a?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

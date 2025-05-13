@@ -21,11 +21,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Partitioning for Targeted Data Access Still the Master Plan of Database Design?](https://levelup.gitconnected.com/is-partitioning-for-targeted-data-access-still-the-master-plan-of-database-design-1684d7bbb0a7?source=rss-44d824aafb43------2)
 - [Is Modern Concurrency Aligned with Joe Armstrong’s Actor Model and Simplicity Principles?](https://levelup.gitconnected.com/is-modern-concurrency-aligned-with-joe-armstrongs-actor-model-and-simplicity-principles-a6c67d47c092?source=rss-44d824aafb43------2)
 - [I Studied Reactor Kafka So You Don’t Have To: Here’s What I Learned— Handling BackPressure &lpar;Part-1&rpar;](https://levelup.gitconnected.com/i-studied-reactor-kafka-so-you-dont-have-to-here-s-what-i-learned-handling-backpressure-part-1-f7ffca82295a?source=rss-44d824aafb43------2)
 - [Is Rust a Pure Functional Programming Language Or Just Pretending To Be One?](https://levelup.gitconnected.com/is-rust-a-functional-programming-language-or-just-pretending-to-be-one-d03cf8db38c9?source=rss-44d824aafb43------2)
 - [Are New Programming Languages Really Better Than The Old Ones?](https://levelup.gitconnected.com/are-new-programming-languages-really-better-than-the-old-ones-7f94cc7f3e58?source=rss-44d824aafb43------2)
-- [How to Be a Better Leader: Step Back So Others Can Step Up](https://levelup.gitconnected.com/how-to-be-a-better-leader-step-back-so-others-can-step-up-1a398cd54e81?source=rss-44d824aafb43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

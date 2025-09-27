@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software architecture and System design, Cloud native architecture, and Reactive architecture**
 
-- 📫 How to reach me [My Profile](https://bento.me/ruchirarajapaksha)
+- 📫 How to reach me [My Portfolio](https://lordmaduz.github.io/portfolio/)
 
 - 📄 Know about my experiences [My Resume](https://read.cv/ruchirarajapaksha)
 

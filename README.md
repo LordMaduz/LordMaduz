@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ruchira Madhushan Rajapaksha</h1>
-<h3 align="center">I am a software engineer who loves to engage in digital transformation and innovation initiatives. In my free time, I would like to write about software architecture & system design. I am a cloud-native enthusiast fascinated with reactive architecture.</h3>
+<h3 align="center">I am a software engineer specializing in enterprise systems and AI/ML innovation. I build multi-agent AI systems and write about software architecture, system design, and agentic AI. I am a cloud-native enthusiast fascinated with reactive architecture and intelligent automation.</h3>
 
 - 🔭 I work in [DBS Bank Singapore](https://www.dbs.com)
 
-- 🌱 I’m constantly exploring on **cloud-native architecture and reactive way of design**
+- 🌱 I'm constantly exploring **Agentic AI & Multi-agent AI systems**
+  
+- 🤖 Check out my AI/ML projects on [Hugging Face](https://huggingface.co/maduzrajapaksha)
 
-- 👨‍💻 All of my projects are available at [GithHb](https://github.com/LordMaduz)
+- 👨‍💻 All of my other projects are available at [GithHb](https://github.com/LordMaduz)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@maduz.ruchira)
 
 - 📚 I always try to share my knowledge on [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
 
-- 💬 Ask me about **Software architecture and System design, Cloud native architecture, and Reactive architecture**
+- 💬 Ask me about **Software Architecture & System Design, Agentic0AI & Multi-Agent AI Systems, Cloud-Native Architecture, and Reactive Programming**
 
 - 📫 How to reach me [My Portfolio](https://lordmaduz.github.io/ruchira.codes/)
 

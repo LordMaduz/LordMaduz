@@ -13,7 +13,7 @@
 
 - 📚 I always try to share my knowledge on [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
 
-- 💬 Ask me about **Software Architecture & System Design, Agentic0AI & Multi-Agent AI Systems, Cloud-Native Architecture, and Reactive Programming**
+- 💬 Ask me about **Software Architecture & System Design, Agentic AI & Multi-Agent AI Systems, and Reactive Programming**
 
 - 📫 How to reach me [My Portfolio](https://lordmaduz.github.io/ruchira.codes/)
 
@@ -37,6 +37,7 @@
 <a href="https://stackoverflow.com/users/11867236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11867236" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ruchirarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ruchirarajapaksha" height="30" width="40" /></a>
 <a href="https://medium.com/@maduz.ruchira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maduz.ruchira" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

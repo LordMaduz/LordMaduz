@@ -32,6 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://huggingface.co/YOUR_USERNAME" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
 <a href="https://twitter.com/maduz_ruchira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maduz_ruchira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruchirarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchirarajapaksha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11867236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11867236" height="30" width="40" /></a>

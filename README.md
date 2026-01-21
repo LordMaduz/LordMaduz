@@ -3,7 +3,7 @@
 
 - 🔭 I work in [DBS Bank Singapore](https://www.dbs.com)
 
-- 🌱 I'm constantly exploring **Agentic AI & Multi-agent AI systems**
+- 🌱 I'm currently exploring **Agentic AI & Multi-agent AI systems**
   
 - 🤖 Check out my AI/ML projects on [Hugging Face](https://huggingface.co/maduzrajapaksha)
 

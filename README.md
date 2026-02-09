@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ruchira Madhushan Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Ruchira a Software Engineer & Problem Solver</h1>
 <h3 align="center">I am a software engineer specializing in enterprise systems and AI/ML innovation. I build multi-agent AI systems and write about software architecture, system design, and agentic AI. I am a cloud-native enthusiast fascinated with reactive architecture and intelligent automation.</h3>
 
-- 🔭 I work in [DBS Bank Singapore](https://www.dbs.com)
+- 🔭 Currently building high-performance systems at [DBS Bank Singapore](https://www.dbs.com)
 
-- 🌱 I'm currently exploring **Agentic AI & Multi-agent AI systems**
+- 🌱 Currently exploring **Agentic AI & Multi-agent AI systems** where autonomy meets real-world scale
   
-- 🤖 Check out my AI/ML projects on [Hugging Face](https://huggingface.co/maduzrajapaksha)
+- 🤖 Playing with models & experiments on [Hugging Face](https://huggingface.co/maduzrajapaksha)
 
-- 👨‍💻 All of my other projects are available at [GithHb](https://github.com/LordMaduz)
+- 👨‍💻 Open-source projects & experiments live on [GithHb](https://github.com/LordMaduz)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@maduz.ruchira)
+- 📝 I write practical, real-world engineering stories on [Medium](https://medium.com/@maduz.ruchira)
 
-- 📚 I always try to share my knowledge on [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
+- 📚 I also contribute deep-dive technical articles to [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
 
-- 💬 Ask me about **Software Architecture & System Design, Agentic AI & Multi-Agent AI Systems, and Reactive Programming**
+- 💬 Happy to chat about **Software Architecture & System Design, Agentic AI, and Reactive Programming**
 
-- 📫 How to reach me [My Portfolio](https://lordmaduz.github.io/ruchira.codes/)
+- 📫 Find everything about me at [Portfolio](https://lordmaduz.github.io/ruchira.codes/)
 
-- 📄 Know about my experiences [My Resume](https://read.cv/ruchirarajapaksha)
+- 📄 View my professional journey via [My Resume](https://ruchiramadushan.cv)
 
-- ⚡ Fun fact **I am a Playstation Gamer ❤️**
+- ⚡ Fun fact **PlayStation gamer by night 🎮 | Engineer by day ☕**
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->

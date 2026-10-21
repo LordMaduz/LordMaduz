@@ -1,48 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ruchira a Software Engineer & Problem Solver</h1>
-<h3 align="center">I am a software engineer specializing in enterprise systems and AI/ML innovation. I build multi-agent AI systems and write about software architecture, system design, and agentic AI. I am a cloud-native enthusiast fascinated with reactive architecture and intelligent automation.</h3>
+# Ruchira Rajapaksha
 
-- 🔭 Currently building high-performance systems at [DBS Bank Singapore](https://www.dbs.com)
+**AI Product Engineer at Arbitr (formerly Straker), in Auckland, New Zealand.**
 
-- 🌱 Currently exploring **Agentic AI & Multi-agent AI systems** where autonomy meets real-world scale
-  
-- 🤖 Playing with models & experiments on [Hugging Face](https://huggingface.co/maduzrajapaksha)
+I started out wanting to build video games as a kid. Ended up building something far more interesting instead. Now I'm at Arbitr, an AI translation platform, working on the checks that hand work to a person when the AI isn't sure.
 
-- 👨‍💻 Open-source projects & experiments live on [GithHb](https://github.com/LordMaduz)
+[Portfolio](https://lordmaduz.github.io/ruchira.codes/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ruchirarajapaksha/) &nbsp;·&nbsp; [Book a 20-minute chat](https://cal.com/ruchira-rajapaksha) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/maduzrajapaksha)
 
-- 📝 I write practical, real-world engineering stories on [Medium](https://medium.com/@maduz.ruchira)
+## What I'm working on
 
-- 📚 I also contribute deep-dive technical articles to [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha)
+Arbitr is an AI-first translation platform. Clients upload their content, AI agents and machine translation do the first pass, and people review what needs a human. The agents sort content, pick and chase vendors, post-edit, check style and visual layout, and score quality.
 
-- 💬 Happy to chat about **Software Architecture & System Design, Agentic AI, and Reactive Programming**
+I work across the platform's services and its three web apps, mostly on the orchestration side that sends work to the agents and acts on what comes back. That means deciding when a job can run on its own and when it goes to a person, adding guardrails on agent output, and getting stuck jobs moving again. Most of it is Python, with FastAPI, PydanticAI and Redis Streams.
 
-- 📫 Find everything about me at [Portfolio](https://lordmaduz.github.io/ruchira.codes/)
+That code is private. My [portfolio](https://lordmaduz.github.io/ruchira.codes/#work) walks through how the pieces fit.
 
-- 📄 View my professional journey via [My Resume](https://ruchiramadushan.cv)
+## Things I've built
 
-- ⚡ Fun fact **PlayStation gamer by night 🎮 | Engineer by day ☕**
+**[LandedNZ](https://github.com/LordMaduz/landednz-be)**, on my own, 2026<br>
+A planner for moving to New Zealand. A rules engine builds your plan from your visa, city and family, and an AI chat answers questions about it.<br>
+<sub>Next.js, Fastify, PostgreSQL with pgvector, Claude API</sub>
 
-### 📚 Blog posts
+**Global minimum tax engine**, DBS Bank, 2024 to 2025<br>
+New OECD rules set a 15% minimum tax with a different formula in every country. Tax teams edit the rules themselves, so a formula change doesn't wait for a release.<br>
+<sub>Java, Spring Boot, MVEL, MongoDB</sub>
+
+**Trade file processing**, DBS Bank, 2022 to 2024<br>
+Bloomberg sends the derivatives desk files all day, some over 100 MB. I moved them to a reactive pipeline that streams them in parallel and keeps memory flat.<br>
+<sub>Spring WebFlux, Project Reactor, AWS S3</sub>
+
+**Food orders at lunch rush**, GrubTech, 2022<br>
+Orders confirm straight away and reach the database shortly after, and stock stays in sync across brands.<br>
+<sub>Redis, Redisson, Kafka, MongoDB</sub>
+
+## Open source
+
+Runnable examples that go with my articles:
+
+- [Observability in Spring Boot 3 with OpenTelemetry](https://github.com/LordMaduz/Observability-In-Spring-Boot-3-With-OpenTelemetry)
+- [Realtime event processing with reactive gRPC](https://github.com/LordMaduz/Realtime-Event-Processing-With-Reactive-gRPC)
+- [Reactive GraphQL with Spring](https://github.com/LordMaduz/Reactive-Programming-with-GraphQL-and-Spring)
+- [Dynamic config with Spring Cloud Config Server](https://github.com/LordMaduz/Dynamic-Config-Management-With-Spring-Cloud-Config-Server)
+
+## Writing
+
+I write on [Medium](https://medium.com/@maduz.ruchira) about the systems I work on, and I've written tutorials for [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha). Latest posts:
+
 <!-- BLOG-POST-LIST:START -->
-- [Are You Giving Away Your Writing’s Worth with Friend Links?](https://medium.com/illumination/are-you-giving-away-your-writings-worth-with-friend-links-54f62aea8d11?source=rss-44d824aafb43------2)
-- [Is Partitioning for Targeted Data Access Still the Master Plan of Database Design?](https://levelup.gitconnected.com/is-partitioning-for-targeted-data-access-still-the-master-plan-of-database-design-1684d7bbb0a7?source=rss-44d824aafb43------2)
-- [Is Modern Concurrency Aligned with Joe Armstrong’s Actor Model and Simplicity Principles?](https://levelup.gitconnected.com/is-modern-concurrency-aligned-with-joe-armstrongs-actor-model-and-simplicity-principles-a6c67d47c092?source=rss-44d824aafb43------2)
-- [I Studied Reactor Kafka So You Don’t Have To: Here’s What I Learned— Handling BackPressure &lpar;Part-1&rpar;](https://levelup.gitconnected.com/i-studied-reactor-kafka-so-you-dont-have-to-here-s-what-i-learned-handling-backpressure-part-1-f7ffca82295a?source=rss-44d824aafb43------2)
-- [Is Rust a Pure Functional Programming Language Or Just Pretending To Be One?](https://levelup.gitconnected.com/is-rust-a-functional-programming-language-or-just-pretending-to-be-one-d03cf8db38c9?source=rss-44d824aafb43------2)
+- [Are You Giving Away Your Writing’s Worth with Friend Links?](https://medium.com/illumination/are-you-giving-away-your-writings-worth-with-friend-links-54f62aea8d11)
+- [Is Partitioning for Targeted Data Access Still the Master Plan of Database Design?](https://levelup.gitconnected.com/is-partitioning-for-targeted-data-access-still-the-master-plan-of-database-design-1684d7bbb0a7)
+- [Is Modern Concurrency Aligned with Joe Armstrong’s Actor Model and Simplicity Principles?](https://levelup.gitconnected.com/is-modern-concurrency-aligned-with-joe-armstrongs-actor-model-and-simplicity-principles-a6c67d47c092)
+- [I Studied Reactor Kafka So You Don’t Have To: Handling BackPressure (Part 1)](https://levelup.gitconnected.com/i-studied-reactor-kafka-so-you-dont-have-to-here-s-what-i-learned-handling-backpressure-part-1-f7ffca82295a)
+- [Is Rust a Pure Functional Programming Language Or Just Pretending To Be One?](https://levelup.gitconnected.com/is-rust-a-functional-programming-language-or-just-pretending-to-be-one-d03cf8db38c9)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://huggingface.co/maduzrajapaksha" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
-<a href="https://twitter.com/maduz_ruchira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maduz_ruchira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruchirarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchirarajapaksha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11867236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11867236" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ruchirarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ruchirarajapaksha" height="30" width="40" /></a>
-<a href="https://medium.com/@maduz.ruchira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maduz.ruchira" height="30" width="40" /></a>
+## Tools
 
-</p>
+These days it's mostly Python (FastAPI, PydanticAI, LiteLLM) with Vue and Nuxt on the front end. Before Arbitr I spent years on Java and Spring, with Kafka, Redis and MongoDB, running on AWS and Kubernetes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ruchirarajapaksha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchirarajapaksha" /></p><br><br>
+<sub>Off the clock I'm usually on the PlayStation.</sub>

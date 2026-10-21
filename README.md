@@ -5,13 +5,13 @@ AI Product Engineer at Arbitr, in Auckland. This is where my side projects and c
 ## A shape I keep building
 
 ```mermaid
-flowchart TD
-  A["AI agent returns a result"] --> B{"Passes the guardrails?"}
+flowchart LR
+  A["AI agent returns a result"] --> B{"Passes the<br>guardrails?"}
   B -- no --> P["A person takes over"]
-  B -- yes --> C{"Confident enough?"}
+  B -- yes --> C{"Confident<br>enough?"}
   C -- no --> P
   C -- yes --> D["Carries on by itself"]
-  P --> L[("Log who decided and why")]
+  P --> L[("Log who decided<br>and why")]
   D --> L
 ```
 
@@ -25,7 +25,7 @@ A planner for people moving to New Zealand. You tell it your visa, city, family 
 <summary>How it's put together</summary>
 
 ```mermaid
-flowchart TD
+flowchart LR
   U["Mobile and web app"] --> API["Fastify API"]
   API --> R["Rules engine"] --> DB[("PostgreSQL")]
   API --> S["pgvector search"] --> DB

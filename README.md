@@ -26,7 +26,7 @@ A planner for people moving to New Zealand. You tell it your visa, city, family 
 
 ```mermaid
 flowchart LR
-  U["Mobile and web app"] --> API["Fastify API"]
+  U["Web app"] --> API["Fastify API"]
   API --> R["Rules engine"] --> DB[("PostgreSQL")]
   API --> S["pgvector search"] --> DB
   S --> CL["Claude API"]

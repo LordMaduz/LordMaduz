@@ -1,49 +1,96 @@
-# Ruchira Rajapaksha
+# Hi, I'm Ruchira
 
-**AI Product Engineer at Arbitr (formerly Straker), in Auckland, New Zealand.**
+AI Product Engineer at Arbitr, in Auckland. This is where my side projects and code examples live. For the work story, see my [portfolio](https://lordmaduz.github.io/ruchira.codes/).
 
-I started out wanting to build video games as a kid. Ended up building something far more interesting instead. Now I'm at Arbitr, an AI translation platform, working on the checks that hand work to a person when the AI isn't sure.
+## A shape I keep building
 
-[Portfolio](https://lordmaduz.github.io/ruchira.codes/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ruchirarajapaksha/) &nbsp;·&nbsp; [Book a 20-minute chat](https://cal.com/ruchira-rajapaksha) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/maduzrajapaksha)
+```mermaid
+flowchart TD
+  A["AI agent returns a result"] --> B{"Passes the guardrails?"}
+  B -- no --> P["A person takes over"]
+  B -- yes --> C{"Confident enough?"}
+  C -- no --> P
+  C -- yes --> D["Carries on by itself"]
+  P --> L[("Log who decided and why")]
+  D --> L
+```
 
-## What I'm working on
+Most of the AI features I work on end up with this shape. LandedNZ follows it too: a rules engine makes the plan, and the AI chat only answers questions about it.
 
-Arbitr is an AI-first translation platform. Clients upload their content, AI agents and machine translation do the first pass, and people review what needs a human. The agents sort content, pick and chase vendors, post-edit, check style and visual layout, and score quality.
+## Building on my own: LandedNZ
 
-I work across the platform's services and its three web apps, mostly on the orchestration side that sends work to the agents and acts on what comes back. That means deciding when a job can run on its own and when it goes to a person, adding guardrails on agent output, and getting stuck jobs moving again. Most of it is Python, with FastAPI, PydanticAI and Redis Streams.
+A planner for people moving to New Zealand. You tell it your visa, city, family and arrival date, and it builds the list of things to sort out first. The [backend](https://github.com/LordMaduz/landednz-be) and the [app](https://github.com/LordMaduz/landednz) are both public.
 
-That code is private. My [portfolio](https://lordmaduz.github.io/ruchira.codes/#work) walks through how the pieces fit.
+<details>
+<summary>How it's put together</summary>
 
-## Things I've built
+```mermaid
+flowchart TD
+  U["Mobile and web app"] --> API["Fastify API"]
+  API --> R["Rules engine"] --> DB[("PostgreSQL")]
+  API --> S["pgvector search"] --> DB
+  S --> CL["Claude API"]
+  CL -- "streamed back over SSE" --> U
+```
 
-**[LandedNZ](https://github.com/LordMaduz/landednz-be)**, on my own, 2026<br>
-A planner for moving to New Zealand. A rules engine builds your plan from your visa, city and family, and an AI chat answers questions about it.<br>
-<sub>Next.js, Fastify, PostgreSQL with pgvector, Claude API</sub>
+Sign-in uses Supabase Auth, and Prisma handles the database. The chat finds the relevant settlement notes with pgvector, then Claude writes the answer and streams it back as it goes.
 
-**Global minimum tax engine**, DBS Bank, 2024 to 2025<br>
-New OECD rules set a 15% minimum tax with a different formula in every country. Tax teams edit the rules themselves, so a formula change doesn't wait for a release.<br>
-<sub>Java, Spring Boot, MVEL, MongoDB</sub>
+</details>
 
-**Trade file processing**, DBS Bank, 2022 to 2024<br>
-Bloomberg sends the derivatives desk files all day, some over 100 MB. I moved them to a reactive pipeline that streams them in parallel and keeps memory flat.<br>
-<sub>Spring WebFlux, Project Reactor, AWS S3</sub>
+## Repos by topic
 
-**Food orders at lunch rush**, GrubTech, 2022<br>
-Orders confirm straight away and reach the database shortly after, and stock stays in sync across brands.<br>
-<sub>Redis, Redisson, Kafka, MongoDB</sub>
+<details open>
+<summary><b>AI and agents</b></summary>
 
-## Open source
+- [AI-Agentic](https://github.com/LordMaduz/AI-Agentic): worked examples with LangGraph and LlamaIndex, from basic tool use to routing and RAG
+- [landednz-be](https://github.com/LordMaduz/landednz-be): the LandedNZ backend, with streaming RAG chat over pgvector
 
-Runnable examples that go with my articles:
+</details>
 
-- [Observability in Spring Boot 3 with OpenTelemetry](https://github.com/LordMaduz/Observability-In-Spring-Boot-3-With-OpenTelemetry)
-- [Realtime event processing with reactive gRPC](https://github.com/LordMaduz/Realtime-Event-Processing-With-Reactive-gRPC)
-- [Reactive GraphQL with Spring](https://github.com/LordMaduz/Reactive-Programming-with-GraphQL-and-Spring)
-- [Dynamic config with Spring Cloud Config Server](https://github.com/LordMaduz/Dynamic-Config-Management-With-Spring-Cloud-Config-Server)
+<details>
+<summary><b>Reactive Java</b></summary>
 
-## Writing
+- [Realtime-Event-Processing-With-Reactive-gRPC](https://github.com/LordMaduz/Realtime-Event-Processing-With-Reactive-gRPC): reactive gRPC between Spring services, with Protocol Buffers and JWT auth
+- [Reactive-Programming-with-GraphQL-and-Spring](https://github.com/LordMaduz/Reactive-Programming-with-GraphQL-and-Spring): a GraphQL API on Spring WebFlux, with live subscriptions over WebSocket
 
-I write on [Medium](https://medium.com/@maduz.ruchira) about the systems I work on, and I've written tutorials for [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha). Latest posts:
+</details>
+
+<details>
+<summary><b>Running services in production</b></summary>
+
+- [Observability-In-Spring-Boot-3-With-OpenTelemetry](https://github.com/LordMaduz/Observability-In-Spring-Boot-3-With-OpenTelemetry): traces, metrics and logs with OpenTelemetry, Prometheus, Grafana, Tempo and Loki
+- [Dynamic-Config-Management-With-Spring-Cloud-Config-Server](https://github.com/LordMaduz/Dynamic-Config-Management-With-Spring-Cloud-Config-Server): one config server for many services, with live refresh over Spring Cloud Bus
+- [Hibernate-6-Advanced-Features](https://github.com/LordMaduz/Hibernate-6-Advanced-Features): naming strategies and compile-time query checks with the JPA metamodel
+- [Data-Transformation-Framework](https://github.com/LordMaduz/Data-Transformation-Framework): turns FX trade instructions into booking records using rules you can configure
+
+</details>
+
+## Ask me
+
+<details>
+<summary>Why Python after years of Java?</summary>
+
+Arbitr's services are written in Python, so I picked it up on the job, along with FastAPI and Vue with Nuxt. Most of the examples on this page are still Java.
+
+</details>
+
+<details>
+<summary>Are you open to new roles?</summary>
+
+Yes, in Auckland. [Book a 20-minute chat](https://cal.com/ruchira-rajapaksha) or message me on [LinkedIn](https://www.linkedin.com/in/ruchirarajapaksha/).
+
+</details>
+
+<details>
+<summary>Where do you write?</summary>
+
+On [Medium](https://medium.com/@maduz.ruchira), mostly about the systems I work on. I've also written tutorials for [Baeldung](https://www.baeldung.com/author/ruchiramadhushanrajapaksha). The latest posts are below.
+
+</details>
+
+Something else? [Open an issue](https://github.com/LordMaduz/LordMaduz/issues/new?title=Question%20for%20Ruchira) on this repo and I'll answer there.
+
+## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Are You Giving Away Your Writing’s Worth with Friend Links?](https://medium.com/illumination/are-you-giving-away-your-writings-worth-with-friend-links-54f62aea8d11)
@@ -53,8 +100,6 @@ I write on [Medium](https://medium.com/@maduz.ruchira) about the systems I work 
 - [Is Rust a Pure Functional Programming Language Or Just Pretending To Be One?](https://levelup.gitconnected.com/is-rust-a-functional-programming-language-or-just-pretending-to-be-one-d03cf8db38c9)
 <!-- BLOG-POST-LIST:END -->
 
-## Tools
-
-These days it's mostly Python (FastAPI, PydanticAI, LiteLLM) with Vue and Nuxt on the front end. Before Arbitr I spent years on Java and Spring, with Kafka, Redis and MongoDB, running on AWS and Kubernetes.
+<sub>[Portfolio](https://lordmaduz.github.io/ruchira.codes/) · [LinkedIn](https://www.linkedin.com/in/ruchirarajapaksha/) · [Hugging Face](https://huggingface.co/maduzrajapaksha)</sub>
 
 <sub>Off the clock I'm usually on the PlayStation.</sub>
